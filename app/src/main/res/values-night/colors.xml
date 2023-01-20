@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="keypad">#BAA1E3</color>
+    <color name="operator">#806BA1</color>
+    <color name="stroke">#000000</color>
+    <color name="text_bg">#2B2A2C</color>
+    <color name="defaultTextColor">#CCD0DD</color>
+</resources>
